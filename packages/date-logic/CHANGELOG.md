@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/funkycowboy/mono-test/compare/@funkycowboy/date-logic@1.2.0...@funkycowboy/date-logic@1.3.0) (2022-08-02)
+
+
+### Features
+
+* **date-logic:** take 3 ([117e526](https://github.com/funkycowboy/mono-test/commit/117e526b2af86f9cc2dbe35654961ddb010878e7))
+
+
+
+
+
 # 1.2.0 (2022-08-02)
 
 
